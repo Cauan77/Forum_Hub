@@ -165,9 +165,14 @@ Para detalhes completos sobre requisições e respostas, visite a **documentaç�
 
 -----
 
-## 🤝 Contribuição e Licença
+## Autor 👨💻
 
-Este projeto é um esforço da comunidade e está aberto a contribuições\! Sinta-se à vontade para abrir issues ou pull requests.
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/b2131622-e32c-40ef-a5b5-1794c019d0c5" width=115><br><sub>Cauan Henrique</sub>](https://github.com/Cauan77) |
+| :---: |
+
+## Licença
+
+
 
   * **Licença:** Este projeto está sob a licença [Apache 2.0](https://www.google.com/search?q=http://forum.hub/api/licenca).
 
