@@ -174,6 +174,6 @@ Para detalhes completos sobre requisições e respostas, visite a **documentaç�
 
 
 
-  * **Licença:** Este projeto está sob a licença [Apache 2.0](https://www.google.com/search?q=http://forum.hub/api/licenca).
+  * **Licença:** Este projeto está sob a licença [Apache 2.0].
 
 Espero que tenha gostado do projeto, até mais :)
