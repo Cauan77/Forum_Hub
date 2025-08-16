@@ -1,0 +1,2 @@
+ALTER TABLE topicos
+MODIFY status VARCHAR(255);

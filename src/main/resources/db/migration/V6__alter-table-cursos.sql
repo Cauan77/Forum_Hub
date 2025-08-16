@@ -1,0 +1,1 @@
+alter table cursos add ativo tinyint;

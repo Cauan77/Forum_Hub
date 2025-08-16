@@ -1,0 +1,1 @@
+alter table autores add ativo tinyint;
